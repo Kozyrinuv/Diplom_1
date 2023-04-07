@@ -52,5 +52,3 @@ public class BunParamTest {
         Assert.assertEquals(expectedPrice, actualPrice, 0);
     }
 }
-
-
